@@ -55,7 +55,7 @@ def build_cache(n):
 	# in-place.
 	i = len(factcache)
 	extension = list(range(i, n+1))
-	for j in range(n-i+1)
+	for j in range(n-i+1):
 		if j == 0:
 			extension[0] = factcache[i-1] * i % 1000000007
 		else:
