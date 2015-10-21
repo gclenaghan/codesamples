@@ -4,6 +4,7 @@ Curated selection of code I've written.
 ## Python
 * [Merged PR to scikit-learn](https://github.com/scikit-learn/scikit-learn/pull/5237): Changed default behavior of ROC curve computation to work better with large datasets by dropping unnecessary thresholds, and implemented new tests for the new behavior.
 * [Solution to Project Euler 517](https://github.com/gclenaghan/codesamples/blob/master/517.py): Uses dynamic programming and a few arithmetic algorithms to solve [this problem](https://projecteuler.net/problem=517).
+* [WIP Attempt for Project Euler 514](https://github.com/gclenaghan/codesamples/blob/master/514.py): Uses stratified sampling to estimate the expected value of a complex distribution, attempt to solve [this problem](https://projecteuler.net/problem=514).
 
 ## C++
 * [Churchill Navigation Challenge](https://github.com/gclenaghan/churchill): Implements building and then searching a kd-tree for the top `k` points within a given rectangle as part of a programming challenge. Details of implementation in link.
