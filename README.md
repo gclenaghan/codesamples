@@ -12,3 +12,7 @@ Curated selection of code I've written.
 ## Javascript/D3
 * [Statistical Interactive Explorer of Vaccine Efficacy](https://github.com/nkullman/SIEVE): Final project for data visualization CS class, visualizations to aid in statistical analysis of vaccine studies, with a publication in preparation. Current product [here](http://nkullman.github.io/SIEVE/). I implemented selection in overview, stacked bar charts, box charts, among others.
 * [Fremont Bicycle Count Visualization](https://github.com/gclenaghan/bikedata): Assignment for same class, final product [here](http://cse512-15s.github.io/a3-nkullman-gclenagh/). I implemented the selection controls and data manipulation parts (which refilter and reaggregate upon changing selection).
+
+## Scala
+* [Solution to Project Euler 517](https://github.com/gclenaghan/codesamples/blob/master/Sol517.scala): A Scala translation of the Python example above.
+
